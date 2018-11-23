@@ -1,4 +1,4 @@
-import lxml
+
 x = int(input())
 hs = int(input())
 ms = int(input())
@@ -7,4 +7,3 @@ h = x // 60
 m = x % 60
 print(h)
 print(m)
- 
