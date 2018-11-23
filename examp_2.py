@@ -2,8 +2,8 @@ a = int(input())
 b = int(input())
 h = int(input())
 if h < a:
-    print('Недосып')
+    print('Бессоница')
 elif h > b:
-    print('Пересып')
+    print('Соня')
 else:
     print('Это нормально столько спать')
