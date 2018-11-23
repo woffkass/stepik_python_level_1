@@ -4,6 +4,6 @@ h = int(input())
 if h < a:
     print('Бессоница')
 elif h > b:
-    print('Соня')
+    print('Сонязасоня')
 else:
     print('Это нормально столько спать')
