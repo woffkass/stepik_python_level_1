@@ -8,3 +8,4 @@ m = x % 60
 print(h)
 print(x)
 print(m)
+print(h, x, m)
